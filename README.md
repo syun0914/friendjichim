@@ -22,5 +22,6 @@ scrap.md(폐기)
 
 ## 의복 가치관 관련 파일
 ```
-uibok.pptx
+uibok.pptx(폐기)
+uibok_final.pptx
 ```
