@@ -25,3 +25,11 @@ scrap.md(폐기)
 uibok.pptx(폐기)
 uibok_final.pptx
 ```
+
+## 건축 신문 관련 파일 `/building`
+```
+기가 사진 템플릿.hwpx
+기가 신문.pptx
+야저기어때.pptx
+야저기어때.svg
+```
